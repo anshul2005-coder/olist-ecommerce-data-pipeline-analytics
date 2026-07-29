@@ -1,0 +1,13 @@
+2026-07-28 16:29:47,877 - INFO - ============================================================
+2026-07-28 16:29:47,878 - INFO - Starting Data Ingestion Pipeline Execution
+2026-07-28 16:29:47,881 - INFO - Successfully connected to MySQL database: 'olist_ecommerce'
+2026-07-28 16:29:53,384 - INFO - Successfully appended 99,441 rows from 'olist_customers_dataset.csv' to 'olist_customers'
+2026-07-28 16:29:53,534 - INFO - Successfully appended 3,095 rows from 'olist_sellers_dataset.csv' to 'olist_sellers'
+2026-07-28 16:29:55,116 - INFO - Successfully appended 32,951 rows from 'olist_products_dataset.csv' to 'olist_products'
+2026-07-28 16:29:55,138 - INFO - Successfully appended 71 rows from 'product_category_name_translation.csv' to 'product_category_translation'
+2026-07-28 16:30:03,416 - INFO - Successfully appended 99,441 rows from 'olist_orders_dataset.csv' to 'olist_orders'
+2026-07-28 16:30:15,555 - INFO - Successfully appended 112,650 rows from 'olist_order_items_dataset.csv' to 'olist_order_items'
+2026-07-28 16:30:21,262 - INFO - Successfully appended 103,886 rows from 'olist_order_payments_dataset.csv' to 'olist_order_payments'
+2026-07-28 16:30:29,843 - INFO - Successfully appended 99,224 rows from 'olist_order_reviews_dataset.csv' to 'olist_order_reviews'
+2026-07-28 16:31:14,077 - INFO - Successfully appended 1,000,163 rows from 'olist_geolocation_dataset.csv' to 'olist_geolocation'
+2026-07-28 16:31:14,078 - INFO - Pipeline Execution Complete!
